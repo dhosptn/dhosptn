@@ -15,7 +15,7 @@
 - 🎨 I enjoy building aesthetically pleasing and responsive user interfaces.
 - 📚 Currently exploring: **TypeScript** and **Three.js** for 3D web development.
 - 💬 Let's talk about **UI/UX**, **Web Performance**, or **Design Systems**!
-- 🌐 Visit my portfolio: [yourportfolio.com](https://yourportfolio.com)
+
 
 ---
 

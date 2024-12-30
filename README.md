@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Front-End Developer | Crafting Beautiful & Responsive Web Experiences</h3>
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/dhosptn">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Front-End+Developer;Lover+of+Clean+and+Modern+Designs;Always+Learning+New+Things" />
   </a>
 </p>

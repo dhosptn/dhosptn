@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahamd Ridho Septian </h1>
+<h1 align="center">Hi 👋, I'm Ahmad Ridho Septian </h1>
 <h3 align="center">🚀 Passionate Front-End Developer | Crafting Beautiful & Responsive Web Experiences</h3>
 
 <p align="center">

@@ -13,7 +13,7 @@
 - 🚀 Currently focused on **Next.js, Tailwind CSS, and Framer Motion**
 - 💬 Ask me about **React, UI/UX Design, or clean code practices**
 - 🎯 Goals for 2025: Master **3D web with Three.js** and improve design systems
-- 📬 Reach me: [email@example.com](mailto:email@example.com)
+- 📬 Reach me: [ahmadridhoseptian388@gmail.com](mailto:ahmadridhoseptian388@gmail.com)
 
 ---
 

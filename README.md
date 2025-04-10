@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namakamu&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhosptn&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" width="60%" />
 </p>
 
 ---

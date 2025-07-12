@@ -41,18 +41,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhosptn&theme=tokyonight&show_icons=true&hide_border=false&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhosptn&theme=tokyonight&hide_border=false&border_radius=10" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhosptn&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" width="60%" />
-</p>
-
----
 
 ### 🚀 Highlight Projects
 
